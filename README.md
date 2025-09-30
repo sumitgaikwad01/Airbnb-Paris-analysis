@@ -84,7 +84,7 @@ Here are some key visualizations from the analysis:
   ![Price by Locality](https://github.com/sumitgaikwad01/Airbnb-Paris-analysis/blob/main/images/price_locality.jpeg)
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](https://github.com/sumitgaikwad01/Airbnb-Paris-analysis/blob/main/images/Regulation_imapct.jpeg)
+  ![Regulation Impact](https://github.com/sumitgaikwad01/Airbnb-Paris-analysis/blob/main/images/Regulation_imapact.jpeg)
 
 ---
 
