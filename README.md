@@ -3,6 +3,8 @@
 This project explores the evolution of the Airbnb market in Paris, with a focus on how regulations, locality trends, and pricing dynamics have influenced both host participation and customer demand.
 The analysis includes data cleaning, exploratory data analysis (EDA), and insight generation, supported by clear visualizations and actionable business recommendations.
 
+## Dataset (https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+
 ## 📌 Objectives
 
 * Analyze Airbnb supply trends in Paris from 2008 to 2021.
