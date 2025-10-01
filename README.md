@@ -16,13 +16,15 @@ The analysis includes data cleaning, exploratory data analysis (EDA), and insigh
 * Study the relationship between **accommodation capacity** and average price.
 * Provide **business insights & recommendations** for stakeholders.
 
-  ## 📊 Key Insights
+
+   ## 📊 Key Insights
 
 * **Rapid Growth (2008–2016):** Strong host entry and expansion of listings.
 * **Regulatory Shift (2017):** Significant slowdown in new hosts entering the market.
 * **Resilient Demand:** Despite fewer new listings, customer demand stayed stable.
 * **Pricing Trends:** Competition lowered prices pre-2017, but post-regulation supply constraints pushed prices upward.
 * **Locality Insights:** Central Paris commands premium prices, while outer neighborhoods attract budget travelers.
+
 
 
 ## 🚀 Recommendations
@@ -32,6 +34,7 @@ The analysis includes data cleaning, exploratory data analysis (EDA), and insigh
 * Diversify listings, especially targeting **medium-capacity stays (3–6 guests)**.
 * Strengthen **customer experience** with quality listings and repeat-stay strategies.
 * Stay compliant and adapt to evolving **local regulations** for long-term sustainability.
+
 
 
 ## 🛠️ Tech Stack
